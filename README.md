@@ -58,15 +58,10 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
-
-
-
+![WhatsApp Image 2024-04-17 at 08 04 40_81da411a](https://github.com/hanshika-773/Bill-of-Materials-for-PCB-Design/assets/153576501/e4a4f2d7-6bb7-4ba4-9acb-78448775ee7b)
 
 # Output
-
-
-
-
+![Screenshot 2024-05-19 183854](https://github.com/hanshika-773/Bill-of-Materials-for-PCB-Design/assets/153576501/bb88bf1c-266c-4a78-9657-0e0bb59ccc86)
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
